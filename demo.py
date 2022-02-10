@@ -1,4 +1,4 @@
-print("Hello")
-a=5
-b=6
-print(a+b)
+print("hello")
+
+
+print("welcome to laptop")
